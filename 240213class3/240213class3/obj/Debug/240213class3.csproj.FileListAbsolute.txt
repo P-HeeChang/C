@@ -1,0 +1,14 @@
+C:\Users\301-17\Desktop\240213class3\240213class3\bin\Debug\240213class3.exe.config
+C:\Users\301-17\Desktop\240213class3\240213class3\bin\Debug\240213class3.exe
+C:\Users\301-17\Desktop\240213class3\240213class3\bin\Debug\240213class3.pdb
+C:\Users\301-17\Desktop\240213class3\240213class3\obj\Debug\240213class3.csproj.AssemblyReference.cache
+C:\Users\301-17\Desktop\240213class3\240213class3\obj\Debug\240213class3.csproj.CoreCompileInputs.cache
+C:\Users\301-17\Desktop\240213class3\240213class3\obj\Debug\240213class3.exe
+C:\Users\301-17\Desktop\240213class3\240213class3\obj\Debug\240213class3.pdb
+C:\Users\301-17\Desktop\C#\240213class3\240213class3\bin\Debug\240213class3.exe.config
+C:\Users\301-17\Desktop\C#\240213class3\240213class3\bin\Debug\240213class3.exe
+C:\Users\301-17\Desktop\C#\240213class3\240213class3\bin\Debug\240213class3.pdb
+C:\Users\301-17\Desktop\C#\240213class3\240213class3\obj\Debug\240213class3.csproj.AssemblyReference.cache
+C:\Users\301-17\Desktop\C#\240213class3\240213class3\obj\Debug\240213class3.csproj.CoreCompileInputs.cache
+C:\Users\301-17\Desktop\C#\240213class3\240213class3\obj\Debug\240213class3.exe
+C:\Users\301-17\Desktop\C#\240213class3\240213class3\obj\Debug\240213class3.pdb

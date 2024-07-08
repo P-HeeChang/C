@@ -1,0 +1,7 @@
+C:\Users\301-17\Desktop\240213class\240213class\bin\Debug\240213class.exe.config
+C:\Users\301-17\Desktop\240213class\240213class\bin\Debug\240213class.exe
+C:\Users\301-17\Desktop\240213class\240213class\bin\Debug\240213class.pdb
+C:\Users\301-17\Desktop\240213class\240213class\obj\Debug\240213class.csproj.AssemblyReference.cache
+C:\Users\301-17\Desktop\240213class\240213class\obj\Debug\240213class.csproj.CoreCompileInputs.cache
+C:\Users\301-17\Desktop\240213class\240213class\obj\Debug\240213class.exe
+C:\Users\301-17\Desktop\240213class\240213class\obj\Debug\240213class.pdb

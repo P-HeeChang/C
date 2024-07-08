@@ -1,0 +1,7 @@
+C:\Users\301-17\Desktop\C#\240214\240214\bin\Debug\240214.exe.config
+C:\Users\301-17\Desktop\C#\240214\240214\bin\Debug\240214.exe
+C:\Users\301-17\Desktop\C#\240214\240214\bin\Debug\240214.pdb
+C:\Users\301-17\Desktop\C#\240214\240214\obj\Debug\240214.csproj.AssemblyReference.cache
+C:\Users\301-17\Desktop\C#\240214\240214\obj\Debug\240214.csproj.CoreCompileInputs.cache
+C:\Users\301-17\Desktop\C#\240214\240214\obj\Debug\240214.exe
+C:\Users\301-17\Desktop\C#\240214\240214\obj\Debug\240214.pdb
